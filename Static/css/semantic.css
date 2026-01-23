@@ -1,0 +1,77 @@
+body{
+    font-family: cursive;
+    margin: 0;
+    background-color:white;
+}
+header{
+    text-align: center;
+    background-color:cadetblue;
+    padding: 10px 0;
+
+}
+nav ul{
+    list-style-type:none;
+}
+nav ul li{
+    display: inline;
+    margin: 0 15px;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    color:white;
+}
+nav ul a:hover{
+    color: darkgreen;
+    background-color: black;
+}
+main{
+    width:80%;
+    margin:10px auto;
+}
+section{
+    border:1x solid coral;
+    border-radius: 5pc;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px plum;
+}
+h2{
+    color:brown;
+}
+h3{
+    color:blue;
+}
+.safari{
+    
+   margin-bottom: 10px;
+    padding: 10px;
+}
+footer{
+    background-color: cadetblue;
+    text-align: center;
+    padding: 10px;
+}
+h4{
+    text-align: center;
+    color: brown;
+    font-weight: bold;
+}
+form{
+    text-align: center;
+    margin: 10px auto;
+    background-color:none;
+}
+Button{
+    background-color: aqua;
+    width: 20%;
+    color:black;
+    font-weight: bold;
+    padding: 5px;
+    cursor: pointer;
+}
+#Button:hover{
+    background-color:darkgreen;
+}
